@@ -42,7 +42,7 @@
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jatin-b32831329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]()  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=firefox)]()  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Me-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/wURv9zGDsH)
 [![My Website](https://img.shields.io/badge/My_Website-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://novelcult.site)
