@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Yo!👋, I'm Jatin </font></h1>
-<h3 align="center"><font face="Arial">🚀 Passionate Developer from India<br>
+<h1 align="center"><font face="Arial">Yo!👋 </font></h1>
+<h3 align="center"><font face="Arial">🚀 I am Passionate Developer <br>
 🎯 Focused on creating dynamic websites & applications<br>
 📆 1+ years of experience in programming and software development<br>
 📩 Open for collaboration, learning, and freelance opportunities</font></h3>
